@@ -9,6 +9,11 @@ h4{
 font-family: "Open Sans";
 }
 
+h2{
+	font-family: "Open Sans";
+	font-size: 12px;
+}
+
 #footer {
 	background-color: black;
 color: #aaaaaa;
@@ -43,7 +48,7 @@ color: #dddddd;
 }
 
 .spacer {
-	height: 3em;
+	height: 25em;
 }
 
 .feature p{
